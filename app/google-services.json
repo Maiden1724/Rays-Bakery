@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800054131506",
+    "firebase_url": "https://ladies-palace-f6e82.firebaseio.com",
+    "project_id": "ladies-palace-f6e82",
+    "storage_bucket": "ladies-palace-f6e82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800054131506:android:b0260100be38f458",
+        "android_client_info": {
+          "package_name": "com.king.firebaseimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800054131506-hp33a4dqqirqmuur683ltftv3c4vpvfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK2AgcpiJ6hzB-0ayUphAdaFUczWIBuSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800054131506-hp33a4dqqirqmuur683ltftv3c4vpvfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
